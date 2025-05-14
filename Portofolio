@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Portofolio Raka Pratama</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Raka Pratama</h1>
+    <p>Freelancer | Desainer Grafis | Penulis Konten</p>
+  </header>
+
+  <main>
+    <section class="about">
+      <h2>Tentang Saya</h2>
+      <p>
+        Saya seorang freelancer dengan pengalaman dalam desain grafis, penulisan konten, dan pengembangan web ringan. Saya fokus pada hasil berkualitas dan kepuasan klien.
+      </p>
+    </section>
+
+    <section class="projects">
+      <h2>Proyek</h2>
+      <ul>
+        <li><strong>Logo Warung Nasi</strong> – Desain logo untuk bisnis kuliner lokal.</li>
+        <li><strong>Artikel SEO Blog Kesehatan</strong> – Penulisan artikel yang ramah SEO dan informatif.</li>
+        <li><strong>Website Portfolio Fotografer</strong> – Web sederhana dengan galeri foto dan kontak.</li>
+      </ul>
+    </section>
+
+    <section class="contact">
+      <h2>Kontak</h2>
+      <p>Email: raka@email.com</p>
+      <p>WhatsApp: 0812-3456-7890</p>
+      <p>LinkedIn: <a href="https://linkedin.com/in/rakapratama" target="_blank">linkedin.com/in/rakapratama</a></p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Raka Pratama</p>
+  </footer>
+</body>
+</html>
